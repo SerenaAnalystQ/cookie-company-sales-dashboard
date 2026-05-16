@@ -4,6 +4,8 @@ An interactive Tableau dashboard project designed to analyze cookie sales perfor
 
 <img src="dashboard-preview.png" width="800"/>
 
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/serena.z4354/viz/CookieCompanySaleDashboard/CookieSalesDashboard)
+
 ---
 
 ## Dataset
