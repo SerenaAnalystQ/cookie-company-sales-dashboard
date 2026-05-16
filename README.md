@@ -9,6 +9,7 @@ An interactive Tableau dashboard project designed to analyze cookie sales perfor
 ## Dataset
 
 The dataset used in this project was provided by Kevin Stratvert, including customer, country, order date, shipment, quantity sold, and revenue information.
+
 ---
 
 ## Dashboard Features
