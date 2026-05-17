@@ -16,14 +16,14 @@ The dataset used in this project was provided by Kevin Stratvert, including cust
 
 ## Dashboard Features
 
-### Daily Cookie Sold
+### 1.Daily Cookie Sold
 Tracks the number of cookies sold per day over time to monitor sales activity and demand trends.
 
-### Daily Revenue
+### 2.Daily Revenue
 Tracks daily revenue performance over time.
 
-### Revenue by Country
+### 3.Revenue by Country
 Displays country-level revenue distribution using a geographic map visualization.
 
-### Revenue per Customer
+### 4.Revenue per Customer
 Displays customers ranked by revenue contribution from highest to lowest.
